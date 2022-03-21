@@ -5,4 +5,4 @@ Further more if the numberplate, isn't a strandardized one or still wrotten with
 To try to solve this problem, in that case I invert the black and white on the image but still the issue remains. 
 In a futur improvment of my code I'll try to process the image in view to make the black more intensive and present to facilitate the AI process...
 
-Don't forget to check out my work, but you need to be able to read french ! =D
+Don't forget to check out my work, but you'll need to be able to read french ! =D
